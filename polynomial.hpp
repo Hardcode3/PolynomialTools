@@ -2,7 +2,7 @@
 #include <complex>
 #include <iostream>
 #include <iomanip>
-#include <Eigen/Dense>
+#include <eigen/Eigen/Dense>
 
 #ifndef POLYNOMIAL_HPP
 #define POLYNOMIAL_HPP

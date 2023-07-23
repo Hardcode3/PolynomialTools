@@ -1,4 +1,4 @@
-#include "polynomial.hpp"
+#include <polynomial.hpp>
 
 int test_normalisation(const double& tol = 1e-7)
 {

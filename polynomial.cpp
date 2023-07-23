@@ -1,4 +1,4 @@
-#include "polynomial.hpp"
+#include <polynomial.hpp>
 
 Polynomial::Polynomial(std::vector<double> coefficients)
 {
