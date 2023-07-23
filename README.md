@@ -1,5 +1,4 @@
-# PolynomialBasics
-
+# PolynomialTools
 ## Description
 
 A simple C++ / CMake project to deal with n'th order polynomial resolution and other simple polynomial operations.
