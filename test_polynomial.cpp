@@ -3,6 +3,7 @@
 int test_normalisation(const double& tol = 1e-7)
 {
 	// 1e7 tolerance to compare the double precision numbers with the hardcoded expected values
+	
 	Polynomial p({ 6, 2, 3, 5 });
 	Polynomial p_monic({ 1, 0.333333333333333, 0.5, 0.8333333333333334 });
 	

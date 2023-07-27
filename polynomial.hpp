@@ -42,8 +42,8 @@ public:
 private:
 	std::vector<double> coefficients_;
 	Eigen::VectorXcd roots_;
-	std::size_t first_non_null_coef_index_;
-	std::size_t order_;
+	std::size_t first_non_null_coef_index_ = 0;
+	std::size_t order_ = 0;
 	std::size_t null_coeff_nb_ = 0;
 };
 
