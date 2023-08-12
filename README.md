@@ -33,4 +33,4 @@ FindPackage is not suported on this library.
 ## Sources
 The algorithm has been writen using:
 - The [Wikipedia page](https://en.wikipedia.org/wiki/Companion_matrix)
-- [R. A. Horn & C. R. Johnson, Matrix Analysis. Cambridge, UK: Cambridge University Press, 1999, pp. 146-7.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://anandinstitute.org/pdf/Roger_A.Horn.%20_Matrix_Analysis_2nd_edition(BookSee.org).pdf)
+- [R. A. Horn & C. R. Johnson, Matrix Analysis. Cambridge, UK: Cambridge University Press, 1999, pp. 146-7.](https://anandinstitute.org/pdf/Roger_A.Horn.%20_Matrix_Analysis_2nd_edition(BookSee.org).pdf)
